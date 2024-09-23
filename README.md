@@ -2,8 +2,8 @@
 
 ## Overview
 
-This repo provides students with a foundation for their own projects associated with *Telling Stories with Data*. You do not need every aspect for every paper and you should delete aspects that you do not need.
-
+This GitHub Repository contains all files used to generate the paper ---2023 Apartment Builings Evaluations Analysis in the City of Toronto 
+The R code used to create this work was adapted from opendatatoronto
 
 ## File Structure
 
